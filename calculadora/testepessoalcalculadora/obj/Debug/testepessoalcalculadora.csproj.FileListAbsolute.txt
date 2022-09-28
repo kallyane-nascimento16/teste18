@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.Form1.resources
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.Properties.Resources.resources
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\bin\Debug\testepessoalcalculadora.exe.config
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\bin\Debug\testepessoalcalculadora.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\bin\Debug\testepessoalcalculadora.pdb
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\calculadora\testepessoalcalculadora\obj\Debug\testepessoalcalculadora.pdb
